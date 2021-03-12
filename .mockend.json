@@ -9,5 +9,10 @@
     "Comment": {
       "body": "string",
       "post": "Post"
+    },
+    "Book": {
+        "id": "int",
+        "title": "string",
+        "author": "string"
     }
   }
